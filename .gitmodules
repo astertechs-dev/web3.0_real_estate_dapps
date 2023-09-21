@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:astertechs-dev/web3.0_real_estate_dapps_client.git
+[submodule "smart-contract"]
+	path = smart-contract
+	url = git@github.com:astertechs-dev/web3.0_real_estate_dapps_contract.git
